@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  task-manager-api:
+    build: .
+    container_name: task-manager-container
+    ports:
+      - "8000:80"
+    restart: unless-stopped
