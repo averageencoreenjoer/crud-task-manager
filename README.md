@@ -53,8 +53,8 @@ Completed as a test task with a focus on <strong>clean architecture</strong> and
 
 1. **Clone the repository**
 ```bash
-git clone <YOUR REPOSITORY URL>
-cd final_task_manager
+git clone https://github.com/averageencoreenjoer/crud-task-manager.git
+cd crud-task-manager
 ```
 
 2. **Create and activate the virtual environment**
